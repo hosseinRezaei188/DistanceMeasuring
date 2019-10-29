@@ -1,5 +1,5 @@
 # DistanceMeasuring
-Mesuring Disrtance Between two Coordinate ASP.net  CORE
+Mesuring Distance Between two Coordinate ASP.net  CORE
 
 # DataBase Note
 Data base is Code First And please Create that with console (Sql server 2017)
@@ -22,7 +22,7 @@ All request is from Postman
 
 
 
-##Measure Distance Between Two Coordinats(Parameters)
+## Measure Distance Between Two Coordinats(Parameters)
 **Parameters:** Two Location Send as Json 
 
 Like this:
@@ -42,7 +42,7 @@ Like this:
 
 
 
-##Measure Distance Between Two Coordinats(Token)
+## Measure Distance Between Two Coordinats(Token)
 **Parameters:** Send Bearer token 
 
 Like This
